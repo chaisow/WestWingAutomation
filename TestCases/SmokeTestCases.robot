@@ -14,6 +14,6 @@ TC-01-Search product and add the product into wishlist
 ...                   in wishlist and finally delete the product from wishlist
     [Tags]  smoke
     Search the product   möbel
-    Add product into wishlist  alirajujnu2@gmail.com  pP@01921666
+    Add product into wishlist  saidarbha49@gmail.com  Chaisow@1
     Go to wishlist page and delete the product
     Verify deleting the product

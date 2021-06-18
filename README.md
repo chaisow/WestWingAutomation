@@ -12,11 +12,12 @@ System requirements and Installation instructions
 
 Steps to run the project
 
--Clone the project from github to your local by git clone https://github.com/alirajucse/WestweingAutomation
+-Clone the project from github to your local by git clone https://github.com/chaisow/WestWingAutomation.git
 
 -Copy and paste your downloaded webdriver in your python37/Scripts folder
 
--Copy and paste your python37/Scripts folder path in your local machine Path variable under Environment variables(How to find environment variables in local macine please visit https://www.architectryan.com/2018/08/31/how-to-change-environment-variables-on-windows-10)
+-Copy and paste your python37/Scripts folder path in your local machine Path variable under Environment variables(How to find environment variables in local macine please visit 
+)
 
 -Open the project in Pycharm
 
